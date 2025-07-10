@@ -1,0 +1,5 @@
+0000000000000000000000000000000000000000 ee79fb501c601f3cb20aeb303119f50ab19be1cb selin setiani <selinsetiani@selins-mbp-2.home> 1596058226 +0100	commit (initial): Initial commit before we mess it up
+ee79fb501c601f3cb20aeb303119f50ab19be1cb 02566d295400301f2256513855c3f645cd965e09 selin setiani <selinsetiani@selins-mbp-2.home> 1596220051 +0100	commit: Before navbar changes
+02566d295400301f2256513855c3f645cd965e09 f1bf59543b254f2dc810850cc4e8f94c7ca26144 selin setiani <selinsetiani@selins-mbp-2.home> 1596292990 +0100	commit: with disabling scrolling on button click
+f1bf59543b254f2dc810850cc4e8f94c7ca26144 b5fdcff635672fe16d8074c5a8b9df678dd2a54e selin setiani <selinsetiani@selins-mbp-2.home> 1596293552 +0100	commit: with collapsing navbar thingy
+b5fdcff635672fe16d8074c5a8b9df678dd2a54e be62f8af54818b9b50db4eae3ad016f6d5489364 selin setiani <selinsetiani@selins-mbp-2.home> 1596395174 +0100	commit: with mobile removed
